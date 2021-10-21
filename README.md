@@ -1,3 +1,4 @@
+![alt text](Hillshade_map_no_contour.jpg?raw=true)
 
 # GIS-tools
 
